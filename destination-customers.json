@@ -1,0 +1,38 @@
+[
+  {
+    "externalId": "C001",
+    "name": "Sample Customer One",
+    "email": "customer.one@example.com",
+    "status": "ACTIVE"
+  },
+  {
+    "externalId": "C002",
+    "name": "Sample Customer Two",
+    "email": "customer.two@example.com",
+    "status": "ACTIVE"
+  },
+  {
+    "externalId": "C003",
+    "name": "Sample Customer Three",
+    "email": "customer.three@example.com",
+    "status": "ACTIVE"
+  },
+  {
+    "externalId": "C005",
+    "name": "Sample Customer Five",
+    "email": "customer.five@example.com",
+    "status": "ACTIVE"
+  },
+  {
+    "externalId": "C006",
+    "name": "Sample Customer Six",
+    "email": "customer.six@example.com",
+    "status": "ACTIVE"
+  },
+  {
+    "externalId": "C003",
+    "name": "Sample Customer Three",
+    "email": "customer.three@example.com",
+    "status": "ACTIVE"
+  }
+]

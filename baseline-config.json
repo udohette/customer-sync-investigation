@@ -1,0 +1,18 @@
+{
+  "batchId": "SYNC-2026-10-16-001",
+  "mapping": {
+    "customerId": "externalId",
+    "displayName": "name",
+    "email": "email",
+    "status": "status"
+  },
+  "rules": {
+    "includeInactive": true,
+    "uniqueDestinationKey": "externalId",
+    "retryMustNotCreateDuplicates": true
+  },
+  "runtime": {
+    "includeInactive": false,
+    "writeMode": "insert"
+  }
+}

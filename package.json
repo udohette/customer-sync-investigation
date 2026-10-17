@@ -1,0 +1,9 @@
+{
+  "name": "customer-sync-investigation",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Local customer synchronization investigation using synthetic data",
+  "scripts": {
+    "start": "node server.js"
+  }
+}

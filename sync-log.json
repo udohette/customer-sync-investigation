@@ -1,0 +1,57 @@
+[
+  {
+    "batchId": "SYNC-2026-10-16-001",
+    "phase": "INITIAL_RUN",
+    "customerId": "C001",
+    "action": "INSERTED",
+    "previousMatches": 0,
+    "writeMode": "insert"
+  },
+  {
+    "batchId": "SYNC-2026-10-16-001",
+    "phase": "INITIAL_RUN",
+    "customerId": "C002",
+    "action": "INSERTED",
+    "previousMatches": 0,
+    "writeMode": "insert"
+  },
+  {
+    "batchId": "SYNC-2026-10-16-001",
+    "phase": "INITIAL_RUN",
+    "customerId": "C003",
+    "action": "INSERTED",
+    "previousMatches": 0,
+    "writeMode": "insert"
+  },
+  {
+    "batchId": "SYNC-2026-10-16-001",
+    "phase": "INITIAL_RUN",
+    "customerId": "C004",
+    "action": "SKIPPED",
+    "reason": "Inactive customers excluded by runtime configuration"
+  },
+  {
+    "batchId": "SYNC-2026-10-16-001",
+    "phase": "INITIAL_RUN",
+    "customerId": "C005",
+    "action": "INSERTED",
+    "previousMatches": 0,
+    "writeMode": "insert"
+  },
+  {
+    "batchId": "SYNC-2026-10-16-001",
+    "phase": "INITIAL_RUN",
+    "customerId": "C006",
+    "action": "INSERTED",
+    "previousMatches": 0,
+    "writeMode": "insert"
+  },
+  {
+    "batchId": "SYNC-2026-10-16-001",
+    "phase": "RETRY",
+    "customerId": "C003",
+    "action": "INSERTED",
+    "previousMatches": 1,
+    "writeMode": "insert"
+  }
+]

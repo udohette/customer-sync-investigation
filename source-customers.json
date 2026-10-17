@@ -1,0 +1,38 @@
+[
+  {
+    "customerId": "C001",
+    "displayName": "Sample Customer One",
+    "email": "customer.one@example.com",
+    "status": "ACTIVE"
+  },
+  {
+    "customerId": "C002",
+    "displayName": "Sample Customer Two",
+    "email": "customer.two@example.com",
+    "status": "ACTIVE"
+  },
+  {
+    "customerId": "C003",
+    "displayName": "Sample Customer Three",
+    "email": "customer.three@example.com",
+    "status": "ACTIVE"
+  },
+  {
+    "customerId": "C004",
+    "displayName": "Sample Customer Four",
+    "email": "customer.four@example.com",
+    "status": "INACTIVE"
+  },
+  {
+    "customerId": "C005",
+    "displayName": "Sample Customer Five",
+    "email": "customer.five@example.com",
+    "status": "ACTIVE"
+  },
+  {
+    "customerId": "C006",
+    "displayName": "Sample Customer Six",
+    "email": "customer.six@example.com",
+    "status": "ACTIVE"
+  }
+]
